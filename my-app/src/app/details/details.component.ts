@@ -4,6 +4,7 @@ import { ActivatedRoute } from '@angular/router';
 import { HousingLocation } from '../housing-location';
 import { HousingService } from '../housing.service';
 import { FormControl , FormGroup, ReactiveFormsModule } from 'angular/forms';
+
 @Component({
   selector: 'app-details',
   standalone: true,
